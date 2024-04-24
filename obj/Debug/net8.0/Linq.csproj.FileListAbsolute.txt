@@ -1,0 +1,14 @@
+/home/voodoo_child/Documents/GitProjects/Linq/bin/Debug/net8.0/Linq
+/home/voodoo_child/Documents/GitProjects/Linq/bin/Debug/net8.0/Linq.deps.json
+/home/voodoo_child/Documents/GitProjects/Linq/bin/Debug/net8.0/Linq.runtimeconfig.json
+/home/voodoo_child/Documents/GitProjects/Linq/bin/Debug/net8.0/Linq.dll
+/home/voodoo_child/Documents/GitProjects/Linq/bin/Debug/net8.0/Linq.pdb
+/home/voodoo_child/Documents/GitProjects/Linq/obj/Debug/net8.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/voodoo_child/Documents/GitProjects/Linq/obj/Debug/net8.0/Linq.AssemblyInfoInputs.cache
+/home/voodoo_child/Documents/GitProjects/Linq/obj/Debug/net8.0/Linq.AssemblyInfo.cs
+/home/voodoo_child/Documents/GitProjects/Linq/obj/Debug/net8.0/Linq.csproj.CoreCompileInputs.cache
+/home/voodoo_child/Documents/GitProjects/Linq/obj/Debug/net8.0/Linq.dll
+/home/voodoo_child/Documents/GitProjects/Linq/obj/Debug/net8.0/refint/Linq.dll
+/home/voodoo_child/Documents/GitProjects/Linq/obj/Debug/net8.0/Linq.pdb
+/home/voodoo_child/Documents/GitProjects/Linq/obj/Debug/net8.0/Linq.genruntimeconfig.cache
+/home/voodoo_child/Documents/GitProjects/Linq/obj/Debug/net8.0/ref/Linq.dll
